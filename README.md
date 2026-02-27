@@ -1,4 +1,4 @@
-# CRISPR Off-Target Model
+# CRISPR Off-Target Prediction  Model
 
 Machine learning model for predicting CRISPR-Cas9 off-target cleavage using the CIRCLE-seq 10 gRNA dataset (~585,000 sgRNA–off-target pairs, ~1.25% positives).
 
